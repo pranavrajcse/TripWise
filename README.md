@@ -115,5 +115,6 @@ Deploying to Vercel:
 5. Click **Deploy**. If you add or change the variable later, redeploy so the new value is built in.
 
 `vercel.json` sends every URL to `index.html`, so refreshing on `/my-trip` or `/destination/...` does not give a 404.
+Deployed Link: (https://trip-wise-jade.vercel.app/)
 
 
