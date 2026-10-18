@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# build output
+dist
+
+# environment variables (contain your secret API key)
+.env
+.env.local
+.env.*.local
+
+# logs and OS files
+*.log
+.DS_Store
