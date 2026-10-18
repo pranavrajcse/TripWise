@@ -116,14 +116,4 @@ Deploying to Vercel:
 
 `vercel.json` sends every URL to `index.html`, so refreshing on `/my-trip` or `/destination/...` does not give a 404.
 
-## Screenshots
 
-Add your screenshots to a `screenshots/` folder and update the links below.
-
-| Explore (desktop) | Destination details |
-| --- | --- |
-| ![Explore page](screenshots/explore.png) | ![Details page](screenshots/details.png) |
-
-| My Trip | Mobile view |
-| --- | --- |
-| ![My Trip page](screenshots/my-trip.png) | ![Mobile view](screenshots/mobile.png) |
